@@ -27,11 +27,11 @@ Está organizado por laboratorios, prácticas y un proyecto final, cada uno con 
 ## 🧪 Laboratorios
 
 - Laboratorios del curso:
-  - Laboratorio 01: [Sin contenido](src/lab/01/)
-  - Laboratorio 02: [Sin contenido](src/lab/02/)
-  - Laboratorio 03: [Sin contenido](src/lab/03/)
-  - Laboratorio 04: [Sin contenido](src/lab/04/)
-  - Laboratorio 05: [Sin contenido](src/lab/05/)
+  - Laboratorio 01: [Ponchado de Cables](src/lab/01/)
+  - Laboratorio 02: [Wireshark](src/lab/02/)
+  - Laboratorio 03: [QEMU/KVM y virt-manager](src/lab/03/)
+  - Laboratorio 04: [Creacion y configuracion de una VM](src/lab/04/)
+  - Laboratorio 05: [Tipos de redes](src/lab/05/)
   - Laboratorio 06: [Sin contenido](src/lab/06/)
   - Laboratorio 07: [Sin contenido](src/lab/07/)
   - Laboratorio 08: [Sin contenido](src/lab/08/)
