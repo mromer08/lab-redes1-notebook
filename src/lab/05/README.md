@@ -55,7 +55,7 @@ En este modo, las máquinas virtuales utilizan al host como dispositivo NAT.
     
 ![NAT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/nat.jpg?q=50&fit=crop&w=825&dpr=1.5)
 
-### 3. Conexión Host-only (Solo Anfitrión)
+### 3. Conexión Host-only (Isolated)
 
 En este modo, las máquinas virtuales pueden comunicarse entre sí y con el host, pero **no** con otros dispositivos fuera del host.
 
