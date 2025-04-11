@@ -1,12 +1,6 @@
 <!-- Portada -->
-<!-- <p align="center">
-  <img src="https://img.freepik.com/free-vector/abstract-banner-with-low-poly-connections-design_1048-13077.jpg?t=st=1744352670~exp=1744356270~hmac=01ba5d642b9e14c1b48a5283d80ec84f2c7eba478e38634af5cb95f17adf49ff&w=1380" alt="Portada del Repositorio" width="100%">
-</p> -->
-
-<!-- Portada con logo superpuesto -->
-<p align="center" style="position: relative; display: inline-block;">
-  <img src="https://img.freepik.com/free-vector/abstract-banner-with-low-poly-connections-design_1048-13077.jpg?t=st=1744352670~exp=1744356270~hmac=01ba5d642b9e14c1b48a5283d80ec84f2c7eba478e38634af5cb95f17adf49ff&w=1380" alt="Portada del Repositorio" width="100%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Usac_logo.png" alt="Logo" style="position: absolute; top: 80px; left: 50%; transform: translateX(-50%); width: 200px;">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Usac_logo.png" alt="logo-usac" width="200px">
 </p>
 
 
