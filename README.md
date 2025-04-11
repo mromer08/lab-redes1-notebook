@@ -27,16 +27,16 @@ Está organizado por laboratorios, prácticas y un proyecto final, cada uno con 
 ## 🧪 Laboratorios
 
 - Laboratorios del curso:
-  - Laboratorio 01: [Tema 1](src/lab/01/)
-  - Laboratorio 02: [Tema 2](src/lab/02/)
-  - Laboratorio 03: [Tema 3](src/lab/03/)
-  - Laboratorio 04: [Tema 4](src/lab/04/)
-  - Laboratorio 05: [Tema 5](src/lab/05/)
-  - Laboratorio 06: [Tema 6](src/lab/06/)
-  - Laboratorio 07: [Tema 7](src/lab/07/)
-  - Laboratorio 08: [Tema 8](src/lab/08/)
-  - Laboratorio 09: [Tema 9](src/lab/09/)
-  - Laboratorio 10: [Tema 10](src/lab/10/)
+  - Laboratorio 01: [Sin contenido](src/lab/01/)
+  - Laboratorio 02: [Sin contenido](src/lab/02/)
+  - Laboratorio 03: [Sin contenido](src/lab/03/)
+  - Laboratorio 04: [Sin contenido](src/lab/04/)
+  - Laboratorio 05: [Sin contenido](src/lab/05/)
+  - Laboratorio 06: [Sin contenido](src/lab/06/)
+  - Laboratorio 07: [Sin contenido](src/lab/07/)
+  - Laboratorio 08: [Sin contenido](src/lab/08/)
+  - Laboratorio 09: [Sin contenido](src/lab/09/)
+  - Laboratorio 10: [Sin contenido](src/lab/10/)
 
 
 ---
