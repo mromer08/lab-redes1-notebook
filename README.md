@@ -60,7 +60,7 @@ Lista de reproducción en YouTube con material de apoyo:
 
 ## 🚀 Proyecto Final
 
-Enunciado del proyecto final [aquí](src/proyecto/01)
+Enunciado y dudas del proyecto final [aquí](src/proyecto/01)
 
 ---
 
